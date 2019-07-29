@@ -1,0 +1,24 @@
+ // Header.css
+
+ .header{
+
+     background : #444;
+     color: white;
+     padding:100px;
+ }
+
+ // Header.js
+
+
+import React, { Component } from 'react';
+import './Header.css';
+
+export default class Header extends Component {
+    render() {
+        return (
+            <div className="header">
+                <h1>We.SPA Header</h1>
+            </div>  
+         );
+        }
+}

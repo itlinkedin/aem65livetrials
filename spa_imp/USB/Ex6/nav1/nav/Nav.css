@@ -1,0 +1,19 @@
+.Nav{
+	padding: 20px 0;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	margin-bottom: 10px;
+
+}
+
+.NavItem{
+	display: inline;
+	padding: 0px 20px;
+	font-size: 15px;
+}
+
+.NavItem-link{
+    text-decoration: none;
+    color: #61045f;
+    font-weight: 500;
+}

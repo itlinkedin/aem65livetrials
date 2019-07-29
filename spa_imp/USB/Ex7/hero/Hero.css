@@ -1,0 +1,19 @@
+.hero{
+
+position: relative;
+min-height: 200px;
+max-height: 400px;
+overflow: hidden
+}
+
+
+/* Place text in the middle of the image */
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size:50px;
+  text-shadow: 2px 2px #615358;
+}

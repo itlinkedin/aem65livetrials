@@ -1,0 +1,23 @@
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Header from './components/header/Header';
+
+{/* COMMENT: Import Header component to use it  */}
+
+
+class App extends Component {
+  render() {
+      return (
+      <div className="App">
+          
+          {/* COMMENT: Add Header in order of display  */}
+          <Header/>
+
+          <p>Welcome to AEM 6.5 LiveTrials</p>
+      </div>
+      );
+  }
+}
+
+export default App;

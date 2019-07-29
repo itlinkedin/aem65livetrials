@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+
+  class App extends Component {
+    render() {
+      return (
+        <div className="App">
+          <h1>We.SPA</h1>
+          <p>Welcome to AEM 6.5 LiveTrials</p>
+        </div>
+      );
+    }
+  }
+
+  export default App;

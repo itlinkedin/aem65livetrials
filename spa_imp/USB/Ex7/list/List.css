@@ -1,0 +1,19 @@
+.List{
+    padding: 10px;
+    background: -webkit-linear-gradient(90deg,#61045f,#aa076b);
+	background: -webkit-linear-gradient(left,#61045f,#aa076b);
+	background: linear-gradient(90deg,#61045f,#aa076b);
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.ListItem{
+    display: block;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.ListItem-link{
+    text-decoration: none;
+    color: #ffffff;
+}

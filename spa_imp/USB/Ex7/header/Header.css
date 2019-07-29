@@ -1,0 +1,24 @@
+.Header{
+	padding:20px;
+	color:white;
+	background: #AA076B;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #61045F, #AA076B);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	}
+
+.Header-title{
+	font-size:33px;
+}
+
+.Header-logo {
+    font-size: 40px;
+    vertical-align: text-bottom;
+    padding-left: 10px;
+}
+
+a.Header-link {
+    color: #fff;
+    text-decoration: none;
+}
