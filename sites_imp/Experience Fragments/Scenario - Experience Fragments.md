@@ -53,7 +53,7 @@ You can also use your own Expereince Cloud Organisation
 ```
 
 9. Click on `View Integrations`
-10. Select `partnertraining7` from the dropdown.
+10. Select `ags688` from the dropdown.
 11. Click on `New Integration` > `Access an API` > `Continue`
 12. Select `Adobe Target`
 
@@ -86,7 +86,7 @@ You can also use your own Expereince Cloud Organisation
 1. Navigate to [Tools > Cloud Services > Legacy Cloud Services > Adobe Searcg & Promote > Adobe Target > Configure Now](http://localhost:4502/libs/cq/core/content/tools/cloudservices.html).
 2. Provide the title as `Target` and click `Create`.
 3. Confgure the Adobe Target Cloud service as follows:
-	* Client Code: `partnertraining7`
+	* Client Code: `ags688`
 	* Authentication: `IMS`
 	* IMS Configuration: <IMS Configuration>
 	* API Type: `REST` 
